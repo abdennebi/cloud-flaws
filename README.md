@@ -14,3 +14,9 @@
 [What You Need to Know About Azurescape](https://www.paloaltonetworks.com/blog/2021/09/azurescape/)
 
 [Exfiltrate data from your super-secure Google Cloud project, using the security control built to prevent it](https://trustoncloud.com/exfiltrate-data-from-your-super-secure-google-cloud-project-using-the-security-control-built-to-prevent-it/)
+
+## 2022
+
+## April
+
+[AWS RDS Vulnerability Leads to AWS Internal Service Credentials](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
