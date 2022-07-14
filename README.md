@@ -20,3 +20,7 @@
 ## April
 
 [AWS RDS Vulnerability Leads to AWS Internal Service Credentials](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
+
+## July
+
+[Exploiting Authentication in AWS IAM Authenticator for Kubernetes](https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator)
