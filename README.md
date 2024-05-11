@@ -1,5 +1,9 @@
 # cloud-flaws
 
+## 2024
+
+[Google Cloud accidentally deletes UniSuper’s online account due to ‘unprecedented misconfiguration’](https://www.theguardian.com/australia-news/article/2024/may/09/unisuper-google-cloud-issue-account-access)
+
 ## 2021
 
 [SEGA Europe Thoroughly Scrutinizes its Cloud Security](https://vpnoverview.com/news/sega-europe-security-report/)
